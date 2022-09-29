@@ -1,0 +1,178 @@
+/* Home page css */
+.homeContent{
+  margin-top: 5%;
+}
+
+.homePagecontent{
+  text-align: right;
+  margin-top: 25%;
+}
+.btnLanding{
+  background-image: linear-gradient(to left, #8456EC, #E87BF8);
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  line-height: 23px;
+  size: 20px;
+  border: 1px solid #F6F2FF;
+  border-radius: 10px;
+  color: white;
+  padding: 16px;
+  gap: 10px;
+  width: 320px;
+  
+}
+.firstLine{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 64px;
+}
+.secondLine{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 73.59px;
+  background: linear-gradient(to left, #8456EC, #E87BF8);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.thirdLine{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 64px;
+}
+.homeText{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  size: 24px;
+  line-height: 27.6px;
+  color: #4F4F4F;
+}
+
+@media all and (max-width:600px) {
+  .homePagecontent{
+    position: absolute;
+    top: 10%;
+    margin-top: -15%;
+    margin-left:40px;
+  
+  }
+  .imagePic{
+    position: absolute;
+    margin-left:40px;
+    margin-top: 10% ;
+    border-radius: 13.23px;
+    top: 200px;
+    width: 165.63;
+    height: 292px;
+  }
+  .firstLine{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 36px;
+    text-align: center;
+    margin-left: 15%;
+
+   
+  }
+  .secondLine{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 41.4px;
+    background: linear-gradient(to left, #8456EC, #E87BF8);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    margin-left: 15%;
+
+   
+  }
+  .thirdLine{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 36px;
+    width: 283px;
+    height: 108px;
+    text-align: center;
+    margin-left: 15%;
+  }
+  .homeText{
+    margin-top: -20%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    size: 16px;
+    line-height: 18.46px;
+    color: #4F4F4F;
+    width: 321px;
+    text-align: center;
+    width: 321px;
+    height: 36px;
+    top: 124px;
+    margin-left: 10%;
+
+}
+.btnLanding{
+  position: absolute;
+  background-image: linear-gradient(to left, #8456EC, #E87BF8);
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  line-height: 23px;
+  size: 20px;
+  border: 1px solid #F6F2FF;
+  border-radius: 10px;
+  color: white;
+  padding: 16px;
+  gap: 10px;
+  width: 187px;
+  left: 94px;
+  top: 616px;
+  height: 50px;
+  top: 440%;
+
+}
+}
+
+.eventPage{
+  margin-top: 10%;
+}
+.birthdayImage{
+  width:500px;
+  height: 500px;
+  top: 184px;
+  left: 772px;
+
+}
+.textBash{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 64px;
+
+}
+.hosttext{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  size: 48px;
+  line-height: 55.2px;
+  width: 333px;
+  height: 37px;
+  top: 194px;
+  left: 240px;
+
+
+}
+.dateClass{
+  position: absolute;
+  left: 20%;
+  top: 45%;
+}
+.locationClass{
+  position: absolute;
+  left: 20%;
+  top: 58%;
+
+}
+@media all and (max-width:900px) {
+}
